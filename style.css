@@ -1,0 +1,14 @@
+#main{
+			margin-left: 390px;margin-top: 200px;
+		}
+		#main-form{
+			border: 2px solid white;padding-top: 30px;
+			padding-bottom: 40px;
+			padding-left: 50px;padding-right: 50px;
+			border-radius: 30px;color: white;
+			background-color: gray;
+
+		}
+		#main-btn{
+			margin-left: 70px;	
+			}
